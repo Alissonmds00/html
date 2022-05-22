@@ -23,3 +23,6 @@ caracteres reservados: são caracteres que são exclusivos do html, e para evita
 &quot, (áspas),
 &apos (áspas símples)
 
+CÓDIGO
+Usamos o <code> para partes genéricas do código
+e usamos o <pre> para blocos de código, já que ela respeita os espaçamentos e  quebra de linha que colocar no código
