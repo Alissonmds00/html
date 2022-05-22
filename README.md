@@ -15,3 +15,11 @@ atributos globais: são aplicados a todas classes
 # class, contenteditable, data-*, hidden, id, style, tabindex, title
 <div id="" class="carrinho"></div>
 
+caracteres reservados: são caracteres que são exclusivos do html, e para evitar conflitos, é necessário usar jeitos de contornar.
+# são: "", <>, &,
+&lt (menor que);
+&gt (maior que),
+&amp, (&)
+&quot, (áspas),
+&apos (áspas símples)
+
