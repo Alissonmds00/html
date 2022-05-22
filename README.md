@@ -26,3 +26,7 @@ caracteres reservados: são caracteres que são exclusivos do html, e para evita
 CÓDIGO
 Usamos o <code> para partes genéricas do código
 e usamos o <pre> para blocos de código, já que ela respeita os espaçamentos e  quebra de linha que colocar no código
+
+DIVISÓRIAS / DELMITADORES
+Usamos o <div id="id"> para delimitar um bloco e poder alterá-lo
+já o <span id="id"> é utilizado quando queremos colocar ou diferenciar palavras ou uma palavra das demais dentro de uma única linha por ex.
