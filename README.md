@@ -11,4 +11,7 @@ ex: o "src" e o alt da img
 atributos booleanos: ex -> disable
 <input type="text" disabled> <!-- Não será possível escrever na caixinha de texto -->
 
+atributos globais: são aplicados a todas classes
+# class, contenteditable, data-*, hidden, id, style, tabindex, title
+<div id="" class="carrinho"></div>
 
