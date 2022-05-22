@@ -30,3 +30,12 @@ e usamos o <pre> para blocos de código, já que ela respeita os espaçamentos e
 DIVISÓRIAS / DELMITADORES
 Usamos o <div id="id"> para delimitar um bloco e poder alterá-lo
 já o <span id="id"> é utilizado quando queremos colocar ou diferenciar palavras ou uma palavra das demais dentro de uma única linha por ex.
+
+HYPERLINKS
+Permitem navegar por meio de texto.
+<a>, e permite o uso de tags globais e do 
+href
+    ao clicar, pode redirecionar para um e-mail, url, telefone, fragmento e  outros. 
+Permite também downloads,
+target 
+    "_self" (padrão e  abre o link na mesma página), e "_blank" (abre uma nova página)
