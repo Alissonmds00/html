@@ -55,3 +55,8 @@ usa-se o comando <table> para iniciar as tabelas.
     # col = coluna
     # row = linha
     # colgroup = conjunto de colunas, usado quando criamos um <colgroup></colgroup> acima do <thead></thead>
+
+CABEÇALHO
+O <head></head> é utilizado para colocar informações que não aparecem no navegador, onde acrescentamos o <title></title>, links para css, o meta:
+    meta é composto pelo atributo charset, onde serão configurados os caracteres que a página aceita, o viewport, que permite a responsividade, que permitirá que a página seja aceita em diversos dispositivos. Além disso, existe o meta author e o meta description. Em que o meta author permite você adicionar quem é o autor da página e o meta description permite acrescentar a descrição que será exibido pelo motor de busca do Google, a descrição que é encontrada abaixo do hyperlink para acessar a página.
+os favicon, mecanismo que permite adicionar icones, 
