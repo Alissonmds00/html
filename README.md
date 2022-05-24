@@ -39,3 +39,19 @@ href
 Permite também downloads,
 target 
     "_self" (padrão e  abre o link na mesma página), e "_blank" (abre uma nova página)
+
+TABELAS
+usa-se o comando <table> para iniciar as tabelas.
+<Caption></caption> é usado para criar a legenda, ou descrição do que se trata a tabela
+<thead></thead> é usado para fazer a parte da tabela que classifica os elementos
+<tbody></tbody> é usado para a parte quantitativa ou qualitativa da tabela. onde acrescentamos VALORES.
+<tr></tr> significa "table roll" que é basicamente uma linha, e aninhada a ela, usamos o <th></th> e o <td></td>
+<th></th> é o CABEÇALHO
+<td></td> é a DESCRIÇÃO da linha, a parte de valores
+    Os atributos rowspan e colspan servem para delimitar a quantidade de LINHAS e COLUNAS (respectivamente) que os itens irão ocupar
+    O atributo span pode ser usado em col, para delimitar a quantidade de colunas que irão receber aquele atributo.
+    O atributo [style="background-color: cor;"] permite alterar a cor do conteúdo dentro daquela coluna
+    Para fins de acessibilidade, utilizamos o atributo [scope=""] -> podendo ser col, colgroup e row
+    # col = coluna
+    # row = linha
+    # colgroup = conjunto de colunas, usado quando criamos um <colgroup></colgroup> acima do <thead></thead>
